@@ -1,4 +1,4 @@
-# Class-02 Reading Basics of HTML, CSS & JS
+ Class-02 Reading Basics of HTML, CSS & JS
 1. HTML is the structure and content of webpages, wrote extensively about that in yesterday's assignment. Think of this as the skeletal system of a webpage. There are multiple tags in HTML that you can use such as:
 
 headers that are <h1></h1> through <h6></h6>
