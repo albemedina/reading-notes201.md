@@ -7,7 +7,7 @@ body where you put all your content into <body></body>
 the HMTL tag itself <html></html>
 your bold and italics like <b></b> <i></i>.
 
-As you can see there are multiple tags to make your HTML webpage as amazing as possible.
+As you can see there are multiple tags to make your HTML webpage as amazing as possible. Close
 
 2. CSS: CSS means Cascading Style sheets- It's like the artwork that draws and brings your HTML Blank webage to more life
 reads top to bottom so that however you're styling your webpage it'll follow in the order as such.
