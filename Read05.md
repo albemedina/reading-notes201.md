@@ -18,6 +18,8 @@
 Use the `<img>` element, which is not a tag becasue there is no closing tag. The following elemenst sit inside the `>`. `src` means source, and tells the browser where to find the image; `alt` provides the text description for blind people, and the `title` attribute can provide additional information about the image. Most browsers will display this content in a tooltip when the user hovers over the image.
 EXAMPLE: `<img src="images/grit360.jpg" alt="Logo for Grit360" title="GRIT360 we build, we connect, we create, we inspire" />
 
+HTML5 has a <figure></figure> element that you use as a wrapper around the <img /> and include a <figcaption></figcaption> element inside. More than 1 image can be inside the figure element as long as they all share the image caption.
+
 ### Height & Width of images: uses pixels
 
 EXAMPLE: `<img src="images/grit360.jpg" alt="Logo for GRIT360" width="600" height="450" />
